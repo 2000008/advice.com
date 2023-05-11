@@ -1,0 +1,64 @@
+body{
+	background-color: black;
+	background-image: url(img/life.jpg);
+	background-position: right;
+}
+p{
+	color: white;
+	font-weight: bold;
+}
+h3{
+	color: yellow;
+}
+#container{
+	background-image: url(img/na.jpg);
+	background-color:EEE;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#header{
+	background-image: url(img/AAA.jpg);
+	background-color: gray;
+	color: FFF;
+	text-align: center;
+	font-size: 35;
+}
+#content{
+	background-color:yellow;
+}
+#NOW{
+	align-items:center;
+	font-style:bold;
+	width:600px;
+	float:right;
+	margin:5px
+}
+#LIFE{
+	width: 590px; 
+}
+#wonder{
+	width: 590px;
+}
+#leaders{
+	width: 590px;
+}
+#navigation{
+	color: white;
+	width:180px;
+	float: left;
+	margin:5px;
+}
+a{
+	text-decoration: none;
+	color: EEE;
+}
+#footer{
+	font-size: 15px;
+	width: 800px;
+	height:50px;
+	text-align: right;
+	clear: both;
+	color: FFF;
+	background-color:gray;
+}
